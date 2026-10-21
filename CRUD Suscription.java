@@ -367,6 +367,7 @@ public class Suscripcion extends JFrame {
     //metodo del menu superior siguiendo CRUD 
     public void menu() {
         //Regresar vuelve al inicio
+        
         this.mb = new JMenuBar();
         this.setJMenuBar(mb);
         this.Regresar = new JMenu("Regresar");
